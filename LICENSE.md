@@ -1,4 +1,4 @@
-MIT License
+MEET License
 
 Copyright (c) 2012 Airbnb
 
